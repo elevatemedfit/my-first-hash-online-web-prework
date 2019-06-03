@@ -36,8 +36,9 @@ def adding
 
   # add 4 gun powder to the shipping_manifest hash below
 
-
+shipping_manifest["gun powder"] = 2
 
   # return the shipping_manifest hash below
 
 end
+return shipping_manifest
